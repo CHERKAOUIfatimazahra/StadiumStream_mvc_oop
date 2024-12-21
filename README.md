@@ -1,7 +1,7 @@
-# 🌍 AFRICA CUP OF NATIONS 2023™ - Système de Réservation d'E-Tickets
+# 🌍 StadiumStream - Système de Réservation d'E-Tickets
 
 ## 🚀 Présentation du Projet
-**AFRICA CUP OF NATIONS 2023™** est une plateforme de réservation en ligne développée pour la CAN Côte d'Ivoire 2023. Ce projet permet aux spectateurs de réserver facilement leurs e-tickets pour les différents matchs, tout en assurant une gestion efficace des équipes, des stades et des matchs grâce à une architecture modulaire et maintenable.
+**StadiumStream** est une plateforme de réservation en ligne développée pour la CAN Côte d'Ivoire 2023. Ce projet permet aux spectateurs de réserver facilement leurs e-tickets pour les différents matchs, tout en assurant une gestion efficace des équipes, des stades et des matchs grâce à une architecture modulaire et maintenable.
 
 ---
 
